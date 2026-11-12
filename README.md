@@ -3,7 +3,7 @@
 I am an aspiring Data Analyst
 interested in data analysis and visuvalization.
 ## Technical Skills
-Python
-SQL
-Excel
-Power Bi
+Python,
+SQL,
+Exce,l
+Power Bi.
